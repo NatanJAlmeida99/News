@@ -12,7 +12,7 @@ Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocke
   <a href="#memo-licença">Licença</a>
 </p>
 
-[🔗 Clique aqui para acessar](https://fel1324.github.io/LocalTuristico/)
+[🔗 Clique aqui para acessar](http://natanjalmeida99.github.io/News/)
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=0F172A&labelColor=1D4ED8">
